@@ -75,7 +75,7 @@ To run the Documentation site locally, please follow the steps below:
 - Google maps
 - Image slider
 
-**Don't forget to add the keys you created to the *** place in the .env file. If you do not change it, the application will not work.**
+###Don't forget to add the keys you created to the *** place in the .env file. If you do not change it, the application will not work.
 ```jsx
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=***
 EXPO_PUBLIC_GOOGLEAPI_API_KEY=***
