@@ -9,7 +9,7 @@
 </br>
 
 This is an application I developed with React Native project done with expo.
-![Demo Video](https://youtu.be/SsY21jH0ld4)
+[Demo Video](https://youtu.be/SsY21jH0ld4)
 
 </br>
 </br>
