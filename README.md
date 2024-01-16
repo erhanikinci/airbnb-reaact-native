@@ -8,7 +8,7 @@
 </br>
 </br>
 
-This is an application I developed with React Native project done with expo.
+This is my Airbnb Clone mobile app, a React Native project done with Expo.
 [Demo Video](https://youtu.be/SsY21jH0ld4)
 
 </br>
