@@ -9,7 +9,7 @@
 </br>
 
 This is my Airbnb Clone mobile app, a React Native project done with Expo.
-[Demo Video](https://youtu.be/SsY21jH0ld4)
+[Demo Video](https://youtu.be/itiW7R-g7RY)
 
 </br>
 </br>
