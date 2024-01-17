@@ -23,15 +23,15 @@ This is my Airbnb Clone mobile app React Native project done with expo.
 Add the package to your project using one of the following:
 
 ```bash
-npx expo install @airbnb-reaact-native
+npm install
 ```
 
 ```bash
-npm install @airbnb-reaact-native
+npx expo
 ```
 
 ```bash
-yarn add @airbnb-reaact-native
+yarn add
 ```
 
 ## Running the Documentation site locally
